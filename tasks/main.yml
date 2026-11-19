@@ -29,4 +29,3 @@
     group: root
     mode: "0644"
   notify: Start nginx service
-  
